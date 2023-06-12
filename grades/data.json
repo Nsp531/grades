@@ -1,0 +1,46 @@
+{
+  "group1": {
+    "1": {
+      "result": 5,
+      "set1Task0": "pepito",
+      "set1task1": "5",
+      "set1task2": "4",
+      "set1task3": "3",
+      "set1task4": "3",
+      "set1task5": "2",
+      "set1task6": "6",
+      "set2task1": "5"
+    },
+    "2": {
+      "result": 10,
+      "set1Task0": "pepita",
+      "set1task1": "10",
+      "set1task2": "8",
+      "set1task3": "7",
+      "set1task4": "6",
+      "set1task5": "4",
+      "set1task6": "12",
+      "set2task1": "10"
+    }
+  },
+  "group2": {
+    "1": {
+      "result": null,
+      "set1Task0": "Alfa",
+      "set1task1": "5",
+      "set1task2": "5",
+      "set1task3": "5",
+      "set2task1": "5",
+      "set2task2": "5"
+    },
+    "2": {
+      "result": null,
+      "set1Task0": "Bravo",
+      "set1task1": "10",
+      "set1task2": "10",
+      "set1task3": "10",
+      "set2task1": "10",
+      "set2task2": "10"
+    }
+  }
+}
